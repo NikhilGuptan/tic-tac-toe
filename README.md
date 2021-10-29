@@ -1,2 +1,19 @@
 # tic-tac-toe
-A regular and fully responsive Tic-tac-toe game that can be played on a mobile phone also. This is a solo project I have created in 2 days. For creating this project I mainly focus on React and Css.
+
+As you all know about tic-tac-toe game. Many of you play this so many time. So this time i have created this game using just react and some CSS properties. It is a solo project which created in just 2 days. You can play and give your feedback.
+
+
+# Technology Stack Used
+In this project I have used the following tech stack:
+* React
+* CSS
+* JavaScript
+
+
+# # # Plus point:
+
+fully responsive user can play it any type of screen size.
+
+# # # Deployed link:
+
+https://nikhilguptan.github.io/tic-tac-toe/
